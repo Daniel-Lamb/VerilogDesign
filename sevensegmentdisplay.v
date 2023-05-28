@@ -1,22 +1,14 @@
 `timescale 1ns / 1ps
+
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Engineer: Daniel Lamb
 // 
 // Create Date: 03/17/2023 12:28:04 PM
-// Design Name: 
+// Design Name: Seven Segment Display
 // Module Name: seven
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
+
 // Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+// Seven segment display for use with other modules on Xilinx Spartan3E PFGA Basys2 board.
 //////////////////////////////////////////////////////////////////////////////////
 
 
