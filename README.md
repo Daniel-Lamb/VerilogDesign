@@ -1,7 +1,7 @@
 # VerilogDesign
 HDL Designs for use in Xilinx Vivado Design Suite
 
-<u>Covers the following topics:</u>
+Covers the following topics:
 • Verilog Syntax and Structure
 • Verilog structural and gate level monitoring
 • Simulation environment for schematics and Verilog models
