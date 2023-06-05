@@ -1,23 +1,16 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Engineer: Daniel Lamb
 // 
-// Create Date: 03/17/2023 12:28:58 PM
-// Design Name: 
-// Module Name: clock_enable
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
+// Create Date: 03/18/2023 10:45:01 PM
+// Design Name: decoder
+// Module Name: decoder
+
 // Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+// Clock enable module that generates an enable signal based on a clock input.
+// For use with other modules on Xilinx Spartan3E PFGA Basys2 board.
 //////////////////////////////////////////////////////////////////////////////////
+
 
 
 module clock_enable(input clock, output reg enable);
