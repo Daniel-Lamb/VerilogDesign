@@ -3,8 +3,8 @@
 // Engineer: Daniel Lamb
 // 
 // Create Date: 03/18/2023 10:45:01 PM
-// Design Name: decoder
-// Module Name: decoder
+// Design Name: clock_enable
+// Module Name: clock_enable
 
 // Description: 
 // Clock enable module that generates an enable signal based on a clock input.
