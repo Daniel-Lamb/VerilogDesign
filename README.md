@@ -1,9 +1,10 @@
 # Verilog Design
-<img align="right" width="550" height="550" src="https://github.com/Daniel-Lamb/VerilogDesign/assets/96439440/0f016168-af21-4cea-8f00-876b7d37e640">
 
 ### HDL files for use in Xilinx Vivado Design Suite
+<br>
+<img align="right" width="450" height="450" src="https://github.com/Daniel-Lamb/VerilogDesign/assets/96439440/0f016168-af21-4cea-8f00-876b7d37e640">
 
-<br></br>
+
 
   ### *Covers the following topics:*
 - Verilog syntax and structure 
