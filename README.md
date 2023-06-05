@@ -10,7 +10,7 @@
 - Verilog syntax and structure 
 - Verilog structural and gate level monitoring 
 - Simulation environment for schematics and Verilog
-- Adder circuits: full-adder components, ripple-carry, and carry-lookahead structures 
+- Adder circuits: HA, FA, ripple-carry, and carry-lookahead structures 
 - Encoders, decoders, and seven-segment displays 
 - Asynchronous and synchronous counters 
 - Level-sensitive and edge-sensitive behavior modeling
