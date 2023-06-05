@@ -1,22 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Engineer: Daniel Lamb
 // 
-// Create Date: 03/17/2023 12:31:05 PM
-// Design Name: 
+// Create Date: 03/19/2023 10:49:57 PM
+// Design Name: mux
 // Module Name: mux
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
+
 // Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+// Multiplexex for use with other modules on Xilinx Spartan3E PFGA Basys2 board.
 //////////////////////////////////////////////////////////////////////////////////
 
 
