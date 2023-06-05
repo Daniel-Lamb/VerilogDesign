@@ -1,22 +1,14 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Engineer: Daniel Lamb
 // 
-// Create Date: 03/17/2023 12:32:12 PM
-// Design Name: 
+// Create Date: 03/19/2023 10:49:57 PM
+// Design Name: anode_driver
 // Module Name: anode_driver
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
+
 // Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+// Anode driver module that drives a multiplexed display.
+// For use with other modules on Xilinx Spartan3E PFGA Basys2 board.
 //////////////////////////////////////////////////////////////////////////////////
 
 
