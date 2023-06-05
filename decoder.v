@@ -1,23 +1,17 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Engineer: Daniel Lamb
 // 
-// Create Date: 03/17/2023 12:33:27 PM
-// Design Name: 
+// Create Date: 03/18/2023 11:27:36 PM
+// Design Name: decoder
 // Module Name: decoder
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
+
 // Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+// Represents a 4-to-16 decoder module that maps a 4-bit input value to a 7-bit output
+// value based on predefined cases, assigning the result to the "display" output port.
+// For use with other modules on Xilinx Spartan3E PFGA Basys2 board.
 //////////////////////////////////////////////////////////////////////////////////
+
 
 
 module decoder(input [3:0] decision, output reg [6:0] display);
