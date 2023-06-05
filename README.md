@@ -1,6 +1,6 @@
 # Verilog Design
 
-### HDL files for use in Xilinx Vivado Design Suite
+### ~ HDL files for use in Xilinx Vivado Design Suite on Xilinx Spartan3E PFGA Basys2 board ~
 <br>
 <img align="right" width="450" height="450" src="https://github.com/Daniel-Lamb/VerilogDesign/assets/96439440/0f016168-af21-4cea-8f00-876b7d37e640">
 
