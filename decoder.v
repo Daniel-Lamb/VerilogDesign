@@ -9,7 +9,7 @@
 // Description: 
 // Represents a 4-to-16 decoder module that maps a 4-bit input value to a 7-bit output
 // value based on predefined cases, assigning the result to the "display" output port.
-// For use with other modules on Xilinx Spartan3E PFGA Basys2 board.
+// For use with other modules on the Xilinx Spartan3E PFGA Basys2 board.
 //////////////////////////////////////////////////////////////////////////////////
 
 
