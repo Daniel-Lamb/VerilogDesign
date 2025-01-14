@@ -8,7 +8,7 @@
 
 // Description: 
 // Triple Layer Caesar Decipher
-// For use with other modules on Xilinx Spartan3E PFGA Basys2 board.
+// For use with other modules on the Xilinx Spartan3E PFGA Basys2 board.
 //////////////////////////////////////////////////////////////////////////////////
 
 
