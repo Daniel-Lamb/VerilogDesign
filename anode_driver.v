@@ -8,7 +8,7 @@
 
 // Description: 
 // Anode driver module that drives a multiplexed display.
-// For use with other modules on Xilinx Spartan3E PFGA Basys2 board.
+// For use with other modules on the Xilinx Spartan3E PFGA Basys2 board.
 //////////////////////////////////////////////////////////////////////////////////
 
 
